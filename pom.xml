@@ -17,6 +17,7 @@
     <modules>
         <module>container</module>
         <module>netty</module>
+        <module>tread</module>
     </modules>
 
     <dependencies>
